@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+img{
+  object-fit: cover;
+  object-position: 0 20%
+}
+
+@import url("./product.css");
+
